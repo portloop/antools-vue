@@ -47,4 +47,12 @@ a.orange-button {
   color: #fff;
   text-decoration: none;
 }
+
+.mobile-menu-popup {
+  display: none;
+}
+
+.mobile-menu-popup.mm-active {
+  display: flex;
+}
 </style>
